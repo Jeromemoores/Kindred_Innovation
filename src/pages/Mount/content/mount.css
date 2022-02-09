@@ -1,0 +1,22 @@
+.hover:hover{
+    background-color: rgba(255, 0, 0, 0.4);
+    cursor: default;
+    transition: .5s;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.hover2:hover{
+    background-color: rgba(0, 255, 34, 0.4);
+    cursor: default;
+    transition: .5s;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.section-2 {
+    margin-top: 3%;
+}
+section a{
+    color: green!important;
+    font-weight: bold;
+    text-decoration: none;
+}

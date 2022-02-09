@@ -1,0 +1,10 @@
+body {
+    background-color: #2e2e2e;
+    color: white;
+}
+a {
+    color: white!important;
+}
+section {
+    margin: 0 2% auto;
+}
